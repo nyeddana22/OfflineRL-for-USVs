@@ -1,0 +1,8 @@
+prefix=/home/niharika/catkin_ws/devel
+
+Name: heron_control
+Description: Description of heron_control
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

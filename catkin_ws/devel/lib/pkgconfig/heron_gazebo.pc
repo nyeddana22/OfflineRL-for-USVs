@@ -1,0 +1,8 @@
+prefix=/home/niharika/catkin_ws/devel
+
+Name: heron_gazebo
+Description: Description of heron_gazebo
+Version: 0.3.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
